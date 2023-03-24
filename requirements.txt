@@ -2,6 +2,6 @@ matplotlib
 numpy
 pandas
 seaborn
-tensorflow==1.15.4
+tensorflow==2.11.1
 IPython
 sklearn
